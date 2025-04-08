@@ -57,12 +57,6 @@ class AuthController extends Controller
                 ];
           }
 
-public function hello(){
-    $person=[
 
-   ];
-   return $person;
-    
-}
 
 }
